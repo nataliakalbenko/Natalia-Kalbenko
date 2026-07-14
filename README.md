@@ -1,5 +1,4 @@
-# Natalia Kalbenko
-# Hi, I'm Natalia Kalbenko 👋
+# Hi, I'm Natalia Kalbenko 
 
 I am a Junior Data Analyst who enjoys turning data into meaningful insights and helping businesses make data-driven decisions.
 I have completed professional training in SQL, Python, Tableau, and Google Sheets. During my studies, I worked on portfolio projects using educational datasets that simulate real business cases. These projects allowed me to gain hands-on experience in data analysis, visualization, reporting, and business metrics.
